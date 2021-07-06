@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tarun Bhandari
-- 👀 I’m interested in Programming and Machine Learning
-- 🌱 I’m currently learning Machine and Deep Learning
+- 👀 I’m interested in Programming and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 
 <!---
