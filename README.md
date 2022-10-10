@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tarun Bhandari
-- 👀 I’m interested in Programming and Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 Currently working as Software Development Engineer at Amazon.
 
 <!---
 ronythakur/ronythakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
